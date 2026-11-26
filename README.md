@@ -33,11 +33,11 @@ https://github.com/Ashok1483/House-marketing-analysis/blob/main/Screenshot%20202
 
 ## Project Files
 - (https://github.com/Ashok1483/House-marketing-analysis/blob/main/House_market%20_project.pbix) – Power BI dashboard file.
-- [README.md](https://github.com/Ashok1483/House-marketing-analysis/edit/main/README.md) – Project documentation.
+- (https://github.com/Ashok1483/House-marketing-analysis/edit/main/README.md) – Project documentation.
 
 ## How to Use
 1. Download the repository.
-2. Open the `(https://github.com/Ashok1483/House-marketing-analysis/blob/main/House_market%20_project.pbix)`# House Market Dashboard
+2. Open the (https://github.com/Ashok1483/House-marketing-analysis/blob/main/House_market%20_project.pbix)# House Market Dashboard
 
 ## Project Overview
 Developed an interactive Power BI dashboard to analyze housing market data and identify trends in property prices, locations, and housing characteristics.
@@ -69,8 +69,8 @@ Created an interactive Power BI dashboard to visualize housing market data and p
 Add your dashboard screenshot here.
 
 ## Project Files
-- `[House Market Dashboard.pbix](https://github.com/Ashok1483/House-marketing-analysis/blob/main/House_market%20_project.pbix)` – Power BI dashboard file.
-- `[README.m](https://github.com/Ashok1483/House-marketing-analysis/edit/main/README.md)` – Project documentation.
+- (https://github.com/Ashok1483/House-marketing-analysis/blob/main/House_market%20_project.pbix) – Power BI dashboard file.
+- (https://github.com/Ashok1483/House-marketing-analysis/edit/main/README.md) – Project documentation.
 
 ## How to Use
 1. Download the repository.
