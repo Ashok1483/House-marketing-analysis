@@ -28,7 +28,7 @@ Created an interactive Power BI dashboard to visualize housing market data and p
 - Visual representation of housing market trends.
 
 ## Dashboard Preview
-Add your dashboard screenshot here.
+[Add your dashboard screenshot here.](https://github.com/Ashok1483/House-marketing-analysis/blob/main/Screenshot%202026-11-26%20125748.png)
 
 ## Project Files
 - `House Market Dashboard.pbix` – Power BI dashboard file.
