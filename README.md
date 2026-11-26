@@ -32,8 +32,8 @@ Created an interactive Power BI dashboard to visualize housing market data and p
 https://github.com/Ashok1483/House-marketing-analysis/blob/main/Screenshot%202026-11-26%20130044.png
 
 ## Project Files
-- `(https://github.com/Ashok1483/House-marketing-analysis/blob/main/House_market%20_project.pbix)` – Power BI dashboard file.
-- `[README.md](https://github.com/Ashok1483/House-marketing-analysis/edit/main/README.md)` – Project documentation.
+- (https://github.com/Ashok1483/House-marketing-analysis/blob/main/House_market%20_project.pbix) – Power BI dashboard file.
+- [README.md](https://github.com/Ashok1483/House-marketing-analysis/edit/main/README.md) – Project documentation.
 
 ## How to Use
 1. Download the repository.
